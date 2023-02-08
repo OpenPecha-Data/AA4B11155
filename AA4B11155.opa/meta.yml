@@ -1,0 +1,23 @@
+id: AA4B11155
+title: Laṅkāvatārasūtra
+type: translation
+pechas:
+- I2FF73100
+- ICCFD35D3
+- I2E16B6C6
+- IB1C81706
+- IA97A942A
+source_metadata:
+  languages:
+  - zh
+  - en
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:11:25.614550
+  last_modified_at: 2023-02-08 15:11:25.614575
+alignment_to_base:
+  I2FF73100/63F0: 5BDC
+  ICCFD35D3/84EB: 5BDC
+  I2E16B6C6/25D5: 5BDC
+  IB1C81706/ABC6: 5BDC
+  IA97A942A/288A: 5BDC
